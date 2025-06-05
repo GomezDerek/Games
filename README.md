@@ -27,7 +27,7 @@ Built with vanilla HTML, CSS, & JavaScript.
 
 [Visit the repo](https://glitch.com/edit/#!/whack-a-mole-embed)
 
-## 🍳 IngredientRun (2021)
+## 🍳 Willow Wood Refuge (2021)
 This 2D pixel-art dungeon crawler / crafting game was my university capstone project built with a team of 9 other students over 8 months. I served as our team's UI designer & UI developer.
 
 Supported on Windows &  Mac computers.
