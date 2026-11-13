@@ -1,10 +1,6 @@
 # ALL OF MY VIDEOGAMES
 
-One of my first memories was playing PacMan on my family's N64 and accidentally pulling the whole game system off the TV stand, **crashing onto my little 4 year old toes** (back when game controllers were wired).
-
-Thus began a lifelong toxic relationship between me and videogames; eventually leading me to graduate with a BA in Game Design and then never work in the game industry.
-
-Nonetheless, I've compiled all my games that made it out of development hell and to the golden gates of deployment.
+... that made it out of development hell and to the golden gates of deployment.
 
 Enjoy.
 
